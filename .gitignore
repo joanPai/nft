@@ -12,3 +12,6 @@ docs/
 
 # Dotenv file
 .env
+.broadcast
+#0x6257fe7bd001c82017e7f04253a04d6e23607221 sep
+#0x70997970c51812dc3a010c7d01b50e0d17dc79c8 an
